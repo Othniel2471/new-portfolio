@@ -43,8 +43,9 @@ a {
   color: #6070ff;
   cursor: pointer;
 }
+
 /* .hamburger:hover{
-    
+
 } */
 
 .hero-section {
@@ -89,8 +90,9 @@ a {
   line-height: 24px;
   color: #7f8cff;
 }
-.connect:hover{
-    color: #344563;
+
+.connect:hover {
+  color: #344563;
 }
 
 .socials {
@@ -101,8 +103,10 @@ a {
   height: 20px;
   margin-top: 1.5em;
 }
-.icons:hover{
-    transform: translateY(10px);
-    transition: 0.5s;
-    /* background: pink; */
+
+.icons:hover {
+  transform: translateY(10px);
+  transition: 0.5s;
+
+  /* background: pink; */
 }
